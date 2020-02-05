@@ -15,7 +15,8 @@ pip3 install -r requirements.txt
 python3 weather.py
 ```
 It will ask you to enter the city name
-
+![requests](https://github.com/BUEC500C1/api-design-827265717/blob/master/result/requests.png)
 After the entry, you can get the information as below
-
+![result1](https://github.com/BUEC500C1/api-design-827265717/blob/master/result/result1.png)
 If you enter a wrong name, it will return an input error
+![](https://github.com/BUEC500C1/api-design-827265717/blob/master/result/result2.png)
